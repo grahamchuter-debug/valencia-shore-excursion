@@ -1,0 +1,144 @@
+{
+  "destination": "valencia",
+  "domain": "valenciashoreexcursion.com",
+  "generated": "2026-07-26T19:03:16.795725+00:00",
+  "note": "Temporary Wikimedia Commons stand-ins for localhost development only. Replace with licensed production assets before launch.",
+  "images": [
+    {
+      "file": "cathedral.jpg",
+      "source": "Wikimedia Commons",
+      "commons": "File:Catedral de Valencia, Valencia, Espa\u00f1a, 2014-06-30, DD 160.JPG",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "central-market.jpg",
+      "source": "Wikimedia Commons",
+      "commons": "File:Mercat Central de Val\u00e8ncia.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "city-of-arts.jpg",
+      "source": "Wikimedia Commons",
+      "commons": "File:Ciudad de las Artes y las Ciencias 02.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "coast.jpg",
+      "source": "Alias of coastal.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "coastal.jpg",
+      "source": "Wikimedia Commons",
+      "commons": "File:Playa de la Malvarrosa (Valencia) 01.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "compare.jpg",
+      "source": "Alias of old-town.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "cruise-port.jpg",
+      "source": "Wikimedia Commons",
+      "commons": "File:Port of Valencia.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "family.jpg",
+      "source": "Alias of turia-gardens.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "food-and-wine.jpg",
+      "source": "Alias of central-market.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "food.jpg",
+      "source": "Alias of central-market.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "hero-home.jpg",
+      "source": "Alias of city-of-arts.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "hero.jpg",
+      "source": "Alias of city-of-arts.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "highlights.jpg",
+      "source": "Alias of city-of-arts.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "historic.jpg",
+      "source": "Wikimedia Commons",
+      "commons": "File:Torres de Serranos Valencia.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "la-lonja.jpg",
+      "source": "Wikimedia Commons",
+      "commons": "File:Lonja de la Seda, Valencia, Espa\u00f1a, 2014-06-29, DD 22.JPG",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "nature.jpg",
+      "source": "Alias of turia-gardens.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "og-default.jpg",
+      "source": "Alias of city-of-arts.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "old-town.jpg",
+      "source": "Wikimedia Commons",
+      "commons": "File:Plaza de la Virgen, Valencia, Espa\u00f1a, 2014-06-30, DD 163.JPG",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "photography.jpg",
+      "source": "Alias of city-of-arts.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "plaza-ayuntamiento.jpg",
+      "source": "Wikimedia Commons",
+      "commons": "File:Plaza del Ayuntamiento de Valencia.JPG",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "private.jpg",
+      "source": "Alias of city-of-arts.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "turia-gardens.jpg",
+      "source": "Wikimedia Commons",
+      "commons": "File:Jardines del Turia. Valencia.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "viewpoints.jpg",
+      "source": "Alias of city-of-arts.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "walking.jpg",
+      "source": "Wikimedia Commons",
+      "commons": "File:Carrer dels Cavallers, Val\u00e8ncia.JPG",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    },
+    {
+      "file": "wine.jpg",
+      "source": "Alias of central-market.jpg",
+      "note": "Temporary localhost stand-in \u2014 replace before launch"
+    }
+  ]
+}

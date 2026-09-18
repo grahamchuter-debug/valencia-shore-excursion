@@ -1,0 +1,7 @@
+# Workers Static Assets — relative path redirects only.
+# www → apex is enforced via Cloudflare Redirect Rules (ADR-0001).
+# Absolute host redirects are not permitted in Workers _redirects (code 100324).
+
+# Walk It Yourself brand → canonical Independent Explorer guide
+/walk-it-yourself /guides/explore-independently 301
+/walk-it-yourself/ /guides/explore-independently 301

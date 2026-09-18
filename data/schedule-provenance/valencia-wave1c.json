@@ -1,0 +1,58 @@
+{
+  "generatedAt": "2026-09-18T07:24:51.207Z",
+  "wave": "wave-1c",
+  "port": "valencia",
+  "destSlug": "valencia",
+  "displayName": "Valencia",
+  "portIdentityNote": "Remove Savona-clone schedule contamination",
+  "minPublishRows": 15,
+  "counts": {
+    "2026": 98,
+    "2027": 239,
+    "2028_discovery": 140,
+    "2028_published": 19,
+    "public_total": 356
+  },
+  "partial2026": true,
+  "filter2028": {
+    "decision": "PUBLISH",
+    "reason": "validated 19 >= MIN_PUBLISH_ROWS 15 — publish validated only; held 121 restricted/unvalidated",
+    "validatedCount": 19,
+    "tier2AzamaraVenice": 0
+  },
+  "timeCompleteness": {
+    "2026": {
+      "total": 98,
+      "arrival": 95,
+      "departure": 95,
+      "both": 95,
+      "neither": 3,
+      "pctBoth": 96.9
+    },
+    "2027": {
+      "total": 239,
+      "arrival": 211,
+      "departure": 209,
+      "both": 209,
+      "neither": 28,
+      "pctBoth": 87.4
+    },
+    "2028": {
+      "total": 19,
+      "arrival": 19,
+      "departure": 19,
+      "both": 19,
+      "neither": 0,
+      "pctBoth": 100
+    }
+  },
+  "berthPolicy": "unknown — no generic terminals published",
+  "contaminationPurged": [
+    "src/data/imported-schedules/savona.json"
+  ],
+  "wireSchedulesTs": {
+    "wired": true,
+    "reason": "replaced empty array with json import"
+  },
+  "placeholderPurged": true
+}
