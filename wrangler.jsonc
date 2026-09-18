@@ -1,13 +1,13 @@
 {
   // WORKERS STATIC ASSETS — Valencia Shore Excursions (ADR-0001)
-  // Custom Domain routes: omit until approval, then apex custom_domain only.
-  // www → apex via Cloudflare Redirect Rules (not a second Worker origin).
+  // Apex custom_domain only. www → apex via Cloudflare Redirect Rules.
   "name": "valencia-shore-excursions",
   "compatibility_date": "2026-07-17",
-  "workers_dev": true,
+  "workers_dev": false,
   "preview_urls": true,
-  // Static export directory token for World 2.0 config audit: "out"
-  // pages_build_output_dir equivalent under Workers Assets = assets.directory
+  "routes": [
+    { "pattern": "valenciashoreexcursion.com", "custom_domain": true }
+  ],
   "assets": {
     "directory": "./out",
     "html_handling": "force-trailing-slash",
